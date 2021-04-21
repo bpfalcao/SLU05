@@ -3,3 +3,4 @@
 - meat
 - wine
 - butter
+- fruit
