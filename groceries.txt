@@ -4,5 +4,6 @@
 - wine
 - butter
 - fruit
+- vegetables
 
 Your mum wants eggs to make a pudding!
